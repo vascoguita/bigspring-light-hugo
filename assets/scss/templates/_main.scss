@@ -32,22 +32,6 @@
   }
 }
 
-.social-icons a {
-  color: $primary-color;
-  text-align: center;
-  height: 35px;
-  width: 35px;
-  line-height: 35px;
-  border: 1px solid $primary-color;
-  border-radius: 50%;
-  display: block;
-
-  &:hover {
-    color: $white;
-    background-color: $primary-color;
-  }
-}
-
 // blog card
 .card-img {
   object-fit: cover;
